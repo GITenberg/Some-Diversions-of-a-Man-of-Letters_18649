@@ -1,0 +1,39 @@
+_repo: Some-Diversions-of-a-Man-of-Letters_18649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2006-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'American literature -- History and criticism'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'English literature -- History and criticism'
+tableOfContents: 'Preface: On fluctuations of taste -- The shepherd of the ocean --
+  The songs of Shakespeare -- Catharine Trotter, the precursor of the bluestockings
+  -- The message of the Wartons -- The charm of Sterne -- The centenary of Edgar Allan
+  Poe -- The author of "Pelham" -- The challenge of the Brontës -- Disraeli''s novels
+  -- Three experiments in portraiture: Lady Dorothy Nevill; Lord Cromer; The last
+  days of Lord Redesdale -- The lyrical poetry of Thomas Hardy -- Some soldier poets
+  -- The future of English poetry -- The agony of the Victorian age -- Index.'
+title: Some Diversions of a Man of Letters
+url: http://www.gutenberg.org/ebooks/18649
